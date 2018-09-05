@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İmza Oluşturma Programı</string>
+    <string name="lbl1">Temizle</string>
+    <string name="lbl2">Kaydet</string>
+    <string name="lbl3">Gönder</string>
+    <string name="hata">Hata : </string>
+    <string name="kayit_ok">Kaydedildi : </string>
+    <string name="send_to">Nasıl Gönderilsin ?</string>
+    <string name="oyla">Uygulamayı Oyla</string>
+    <string name="market">Diğer Uygulamalarım</string>
+    <string name="cikis">Çıkış</string>
+    <string name="file_error">Dosya İzin Hatası !</string>
+    <string name="path">Imzalar</string>
+</resources>

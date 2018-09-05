@@ -1,0 +1,832 @@
+{
+  "project_info": {
+    "project_number": "842250016601",
+    "firebase_url": "https://fir-projem.firebaseio.com",
+    "project_id": "fir-projem",
+    "storage_bucket": "fir-projem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:95c6792f339ccbb0",
+        "android_client_info": {
+          "package_name": "com.dogusumit.elfeneri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-p1car4jrco6v26qbpfnbl78v0bqpbt9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.elfeneri",
+            "certificate_hash": "04dd6bfff20a6e579896bdcab962bfa3caeadc3a"
+          }
+        },
+        {
+          "client_id": "842250016601-lgdvrls5lom36hna0n1ka25i6gh2v2e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.elfeneri",
+            "certificate_hash": "f87f0173d1f523a84f066fc82aa711bbaea3af79"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~9285856144"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:23e218ec1a2ccbde",
+        "android_client_info": {
+          "package_name": "com.dogusumit.faktoriyelveardisiksayilar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-969kn2aaa78deljs30ithaadgvknfq47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.faktoriyelveardisiksayilar",
+            "certificate_hash": "04dd6bfff20a6e579896bdcab962bfa3caeadc3a"
+          }
+        },
+        {
+          "client_id": "842250016601-l2rrqjuedol7e7ociol4lt9c6er3ubcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.faktoriyelveardisiksayilar",
+            "certificate_hash": "a8f5ef2e3b3a37c59d31585a388b38db640a35f3"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~5995180143"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:274bc731211b2661",
+        "android_client_info": {
+          "package_name": "com.dogusumit.game1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-bn37n5dko7j9g7l8cj446bhi187q8c8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.game1",
+            "certificate_hash": "281812b6f66bc04a9ebd3355134a6270b9312113"
+          }
+        },
+        {
+          "client_id": "842250016601-amj0r562dsvfr1i0gca0vppi02g47vje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.game1",
+            "certificate_hash": "678d5284697f2cc8e01cd7c7f7ec623dd2c62472"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~8271759381"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:4a7a73c457ba917c",
+        "android_client_info": {
+          "package_name": "com.dogusumit.ikitariharasigunsayisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-g905lighhpo00v2s48gfkb3hm994rcuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.ikitariharasigunsayisi",
+            "certificate_hash": "04dd6bfff20a6e579896bdcab962bfa3caeadc3a"
+          }
+        },
+        {
+          "client_id": "842250016601-5j62o3j8go1r7noff65tue57prcb59bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.ikitariharasigunsayisi",
+            "certificate_hash": "a8f5ef2e3b3a37c59d31585a388b38db640a35f3"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~6003683345"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:ff8309e50a523e0c",
+        "android_client_info": {
+          "package_name": "com.dogusumit.imza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-2p414k028qqj5ja79dab416pb1903fgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.imza",
+            "certificate_hash": "04dd6bfff20a6e579896bdcab962bfa3caeadc3a"
+          }
+        },
+        {
+          "client_id": "842250016601-sm5lrevsmjmrvgu5vn2pjekme69o3o7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.imza",
+            "certificate_hash": "f87f0173d1f523a84f066fc82aa711bbaea3af79"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~7324661346"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:912fa362370b9cb9",
+        "android_client_info": {
+          "package_name": "com.dogusumit.mesaj_yagmuru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-q1bb9vl4d638ljkqhfka1s4iu04unqgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.mesaj_yagmuru",
+            "certificate_hash": "04dd6bfff20a6e579896bdcab962bfa3caeadc3a"
+          }
+        },
+        {
+          "client_id": "842250016601-8gmqq47f4e5ci52tbaj8sv3mjq2li6nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.mesaj_yagmuru",
+            "certificate_hash": "c2cc08d007665391a7b6914827c475406aaace8c"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~7942693881"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:675863dcdce26880",
+        "android_client_info": {
+          "package_name": "com.dogusumit.ortatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-5knothmluo5g46tmf7p5i1460kd2rafg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.ortatus",
+            "certificate_hash": "04dd6bfff20a6e579896bdcab962bfa3caeadc3a"
+          }
+        },
+        {
+          "client_id": "842250016601-0nnqi8bpmqknvvhucm16tie6suko6aet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.ortatus",
+            "certificate_hash": "f87f0173d1f523a84f066fc82aa711bbaea3af79"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~8413370945"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:1b2c57c7144b66a8",
+        "android_client_info": {
+          "package_name": "com.dogusumit.plakalar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-9qvvbu5esm7bcj83u1ua95drg692imap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.plakalar",
+            "certificate_hash": "04dd6bfff20a6e579896bdcab962bfa3caeadc3a"
+          }
+        },
+        {
+          "client_id": "842250016601-0e7nmc9th8t0efqkoi7im5masm8q2olj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.plakalar",
+            "certificate_hash": "f87f0173d1f523a84f066fc82aa711bbaea3af79"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~6433670943"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:edc0bdc87d4715f9",
+        "android_client_info": {
+          "package_name": "com.dogusumit.resmitatiller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-00d49ratk2hi0l3od939rspo7nho3hn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.resmitatiller",
+            "certificate_hash": "04dd6bfff20a6e579896bdcab962bfa3caeadc3a"
+          }
+        },
+        {
+          "client_id": "842250016601-3smcs95ur05qq1g3p6tu13bmcqa26p44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.resmitatiller",
+            "certificate_hash": "a8f5ef2e3b3a37c59d31585a388b38db640a35f3"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~7085830140"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:b5015453fbeea60c",
+        "android_client_info": {
+          "package_name": "com.dogusumit.rotatescreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-bephr1k57aefd7ancfnr56mt7jjd3dif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.rotatescreen",
+            "certificate_hash": "04dd6bfff20a6e579896bdcab962bfa3caeadc3a"
+          }
+        },
+        {
+          "client_id": "842250016601-lbnuaah7ct17pk0s9n9qqgfesoqd9l3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.rotatescreen",
+            "certificate_hash": "678d5284697f2cc8e01cd7c7f7ec623dd2c62472"
+          }
+        },
+        {
+          "client_id": "842250016601-0p8v9iun8fpabtja2e1slttc34i793ob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.rotatescreen",
+            "certificate_hash": "c2cc08d007665391a7b6914827c475406aaace8c"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~8940161967"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:2506ec4cf2717eb2",
+        "android_client_info": {
+          "package_name": "com.dogusumit.rotatescreen2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-lk3j2mv1hc7u2406394898etcdhr21ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.rotatescreen2",
+            "certificate_hash": "9727f5c4b9cf42203449d23ac285f0a02a55a326"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~6164455858"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:82f0728aea669857",
+        "android_client_info": {
+          "package_name": "com.dogusumit.signature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-pdh1uv9sctkfcktfmphkjpmrijj2q7pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.signature",
+            "certificate_hash": "88beee1c2230888e31732c3d84012c0bf7d794c5"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:6e76a7da83bb3e87",
+        "android_client_info": {
+          "package_name": "com.dogusumit.softkeys2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-3n6inqja50r2gep9l20r2jtq0p69hc13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.softkeys2",
+            "certificate_hash": "281812b6f66bc04a9ebd3355134a6270b9312113"
+          }
+        },
+        {
+          "client_id": "842250016601-g2glip5vn68rat85ock9kare3l4lgenb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.softkeys2",
+            "certificate_hash": "678d5284697f2cc8e01cd7c7f7ec623dd2c62472"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~2863359968"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:128a254a95f3548e",
+        "android_client_info": {
+          "package_name": "com.dogusumit.softkeys_moresettings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-b90alt1st3l518gp0j1301u4ofo8cj3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.softkeys_moresettings",
+            "certificate_hash": "281812b6f66bc04a9ebd3355134a6270b9312113"
+          }
+        },
+        {
+          "client_id": "842250016601-836ugombu12s15amkh91c7ph1hkibfj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.softkeys_moresettings",
+            "certificate_hash": "678d5284697f2cc8e01cd7c7f7ec623dd2c62472"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~1078868607"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:b073e1212ac1eee0",
+        "android_client_info": {
+          "package_name": "com.dogusumit.videodondurme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-c9cjil3qiavo87ai44q1l853dcotq9e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.videodondurme",
+            "certificate_hash": "04dd6bfff20a6e579896bdcab962bfa3caeadc3a"
+          }
+        },
+        {
+          "client_id": "842250016601-r51fstr30cijsf7qki2k1cegea6nfvaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.videodondurme",
+            "certificate_hash": "8304241aa6106ac3842c3f4e88ecb0ed0c13f0b5"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~1630513749"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:280b480d2647f584",
+        "android_client_info": {
+          "package_name": "com.dogusumit.videorotationmetadata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-ptnd8espd7trqgp0r9bnphk86fqbkcpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.videorotationmetadata",
+            "certificate_hash": "9236f622dd4dcd7af200706cbbaca96364fef6ae"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEpQU0yIqG5-NcQMFfVr7M2gG85fam7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4322301902835072~7658321729"
+    }
+  ],
+  "configuration_version": "1"
+}

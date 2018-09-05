@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Signature App</string>
+    <string name="lbl1">Clear</string>
+    <string name="lbl2">Save</string>
+    <string name="lbl3">Send</string>
+    <string name="hata">Error : </string>
+    <string name="kayit_ok">Saved to : </string>
+    <string name="send_to">How to send ?</string>
+    <string name="oyla">Rate App</string>
+    <string name="market">My Other Apps</string>
+    <string name="cikis">Exit</string>
+    <string name="file_error">File Permission Error !</string>
+    <string name="path">Signatures</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-4322301902835072/7645550682</string>
+</resources>
